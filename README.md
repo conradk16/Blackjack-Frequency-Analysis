@@ -1,2 +1,2 @@
-Code can found in Source -> src
+Code is in Source -> src
 
